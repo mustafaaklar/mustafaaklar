@@ -14,7 +14,8 @@ HTML ve CSS kullanarak modern, sade ve responsive web arayüzleri oluşturuyorum
 ---
 
 ## 🧠 Odaklandığım Teknolojiler
-- HTML5 & CSS3   
+- HTML5 & CSS3
+- JavaScript
 - Responsive Web Design  
 - Git & GitHub  
 
