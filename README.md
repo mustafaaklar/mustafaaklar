@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=000000&width=500&lines=Frontend+Developer+Learner;HTML+%26+CSS;Responsive+Web+Design)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=E6E6E6&center=true&vCenter=true&width=520&lines=Frontend+Developer+Learner;HTML+%26+CSS;Responsive+Web+Design)
 
 ![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
@@ -8,12 +8,12 @@
 
 # 👋 Merhaba, ben Mustafa
 
-Frontend geliştirme öğrenen bir geliştiriciyim.  
-HTML ve CSS kullanarak modern, responsive web arayüzleri oluşturma üzerine çalışıyorum.
+Frontend geliştirme alanında kendini geliştiren bir geliştiriciyim.  
+HTML ve CSS kullanarak modern, sade ve responsive web arayüzleri oluşturuyorum.
 
 ---
 
-## 🧠 Neler Üzerinde Çalışıyorum?
+## 🧠 Odaklandığım Teknolojiler
 - HTML5 & CSS3  
 - CSS Flexbox  
 - Responsive Web Design  
@@ -21,23 +21,23 @@ HTML ve CSS kullanarak modern, responsive web arayüzleri oluşturma üzerine ç
 
 ---
 
-## 🚀 Projelerim
+## 🚀 Projeler
 
-- 🏨 **Hotel Website**  
-  HTML ve CSS ile geliştirilmiş, responsive otel tanıtım web sitesi.  
-  Flexbox yapıları, hover efektleri ve modern layout teknikleri kullanılmıştır.
+### 🏨 Hotel Website
+HTML ve CSS ile geliştirilmiş, responsive otel tanıtım web sitesi.  
+Flexbox yapıları, hover efektleri ve modern layout teknikleri kullanılmıştır.
 
-  🔗 Canlı site:  
-  https://mustafaaklar.github.io/Hotel-Site/
+🔗 Canlı site:  
+https://mustafaaklar.github.io/Hotel-Site/
 
 ---
 
 ## 🎯 Hedefim
 
-Frontend alanında kendimi geliştirerek kullanıcı dostu, modern ve responsive web projeleri üretmek.
+Frontend alanında kendimi sürekli geliştirerek kullanıcı deneyimi odaklı, modern ve erişilebilir web projeleri üretmek.
 
 ---
 
-## 📫 Bana Ulaş
+## 📫 İletişim
 
 - GitHub: https://github.com/mustafaaklar
