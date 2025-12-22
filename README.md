@@ -21,17 +21,6 @@ HTML ve CSS kullanarak modern, sade ve responsive web arayüzleri oluşturuyorum
 
 ---
 
-## 🚀 Projeler
-
-### 🏨 Hotel Website
-HTML ve CSS ile geliştirilmiş, responsive otel tanıtım web sitesi.  
-Flexbox yapıları, hover efektleri ve modern layout teknikleri kullanılmıştır.
-
-🔗 Canlı site:  
-https://mustafaaklar.github.io/Hotel-Site/
-
----
-
 ## 🎯 Hedefim
 
 Frontend alanında kendimi sürekli geliştirerek kullanıcı deneyimi odaklı, modern ve erişilebilir web projeleri üretmek.
