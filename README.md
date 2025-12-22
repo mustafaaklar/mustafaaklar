@@ -5,11 +5,10 @@
 ![Git](https://img.shields.io/badge/Git-black?logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
 
-
 # 👋 Merhaba, ben Mustafa
 
 Frontend geliştirme öğrenen bir geliştiriciyim.  
-HTML, CSS ve responsive web tasarım üzerine çalışıyorum.
+HTML ve CSS kullanarak modern, responsive web arayüzleri oluşturma üzerine çalışıyorum.
 
 ---
 
@@ -24,19 +23,28 @@ HTML, CSS ve responsive web tasarım üzerine çalışıyorum.
 ## 🚀 Projelerim
 
 - 🏨 **Hotel Website**  
-  Responsive otel tanıtım web sitesi  
-  👉 https://mustafaaklar.github.io/Hotel-Site/
+  HTML ve CSS ile geliştirilmiş, responsive otel tanıtım web sitesi.  
+  Flexbox, hover efektleri ve modern layout yapıları kullanılmıştır.  
+
+  🔗 Canlı site:  
+  https://mustafaaklar.github.io/Hotel-Site/
+
+---
+
+## 📊 GitHub İstatistiklerim
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mustafaaklar&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaaklar&layout=compact)
 
 ---
 
 ## 🎯 Hedefim
 
-Frontend alanında kendimi geliştirerek daha kullanıcı dostu ve modern web arayüzleri oluşturmak.
+Frontend alanında kendimi geliştirerek daha kullanıcı dostu, modern ve responsive web projeleri geliştirmek.
 
 ---
 
 ## 📫 Bana Ulaş
 
 - GitHub: https://github.com/mustafaaklar
-- Instagram: https://www.instagram.com/mustafa.aklarrr/
-- Linkedin: https://www.linkedin.com/in/mustafa-aklar-09029838b/
