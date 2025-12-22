@@ -14,8 +14,7 @@ HTML ve CSS kullanarak modern, sade ve responsive web arayüzleri oluşturuyorum
 ---
 
 ## 🧠 Odaklandığım Teknolojiler
-- HTML5 & CSS3  
-- CSS Flexbox  
+- HTML5 & CSS3   
 - Responsive Web Design  
 - Git & GitHub  
 
@@ -30,3 +29,5 @@ Frontend alanında kendimi sürekli geliştirerek kullanıcı deneyimi odaklı, 
 ## 📫 İletişim
 
 - GitHub: https://github.com/mustafaaklar
+- İnstagram: https://www.instagram.com/mustafa.aklarrr/
+- Twitter: https://x.com/MustafaAklarr
