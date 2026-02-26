@@ -4,7 +4,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=HTML+%26+CSS+Enthusiast+%F0%9F%8E%A8;Responsive+Web+Designer+%F0%9F%93%B1;JavaScript+Explorer+%E2%9A%A1;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Software+Developer+%F0%9F%92%BB;Responsive+Web+Designer+%F0%9F%93%B1;JavaScript+%26+TypeScript+Explorer+%E2%9A%A1;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -23,10 +23,10 @@
 
 ```javascript
 const mustafa = {
-  role     : "Frontend Developer Learner",
+  role     : "Software Developer",
   location : "Türkiye 🇹🇷",
   passion  : "Güzel, modern ve responsive arayüzler inşa etmek",
-  currently: "HTML · CSS · JavaScript öğreniyorum",
+  currently: "JavaScript ·Java · WordPress · ASP.Net · Python",
   goal     : "Kullanıcı deneyimi odaklı projeler üretmek",
   motto    : "Her gün bir adım daha ileri 🚀"
 };
@@ -41,8 +41,9 @@ const mustafa = {
 | Kategori | Teknolojiler |
 |---|---|
 | **Markup & Stil** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **Programlama** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **Layout & Design** | ![Flexbox](https://img.shields.io/badge/Flexbox-FF6B6B?style=flat-square&logo=css3&logoColor=white) ![Responsive](https://img.shields.io/badge/Responsive_Design-4ECDC4?style=flat-square&logo=google-chrome&logoColor=white) |
+| **Programlama** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Platform & CMS** | ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) |
+| **Design & Mobile** | ![Responsive](https://img.shields.io/badge/Responsive_Design-4ECDC4?style=flat-square&logo=google-chrome&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white) ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white) ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white) |
 | **Araçlar** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
 
 </div>
@@ -53,8 +54,8 @@ const mustafa = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mustafaaklar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaaklar&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mustafaaklar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&rank_icon=github"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaaklar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
@@ -63,6 +64,7 @@ const mustafa = {
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mustafaaklar&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
 
 </div>
+
 
 ---
 
@@ -75,6 +77,8 @@ Yeni bağlantılar kurmaktan, projeler hakkında konuşmaktan ve fikirler payla�
 [![Instagram Badge](https://img.shields.io/badge/-mustafa.aklarrr-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mustafa.aklarrr/)
 [![LinkedIn Badge](https://img.shields.io/badge/-Mustafa%20Aklar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-aklar-09029838b/)
 [![Twitter Badge](https://img.shields.io/badge/-MustafaAklarr-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/MustafaAklarr)
+[![Gmail Badge](https://img.shields.io/badge/-E--Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mustafaaklar@gmail.com)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mustafaaklar)
 
 </div>
 
