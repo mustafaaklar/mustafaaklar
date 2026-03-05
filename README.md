@@ -10,6 +10,7 @@
 <br/>
 
 <!-- Social Badges -->
+[![Website](https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](http://mustafaaklar.com.tr/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/mustafa.aklarrr/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-aklar-09029838b/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/MustafaAklarr)
@@ -74,6 +75,7 @@ const mustafa = {
 
 Yeni bağlantılar kurmaktan, projeler hakkında konuşmaktan ve fikirler paylaşmaktan mutluluk duyarım!
 
+[![Website Badge](https://img.shields.io/badge/-mustafaaklar.com.tr-000000?style=for-the-badge&logo=firefox&logoColor=white)](http://mustafaaklar.com.tr/)
 [![Instagram Badge](https://img.shields.io/badge/-mustafa.aklarrr-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mustafa.aklarrr/)
 [![LinkedIn Badge](https://img.shields.io/badge/-Mustafa%20Aklar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-aklar-09029838b/)
 [![Twitter Badge](https://img.shields.io/badge/-MustafaAklarr-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/MustafaAklarr)
